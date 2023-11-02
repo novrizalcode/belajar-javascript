@@ -1,0 +1,9 @@
+function halo() {
+    console.log("Halo, apa kabar?");
+}
+halo();
+
+const sapa = function () {
+    console.log("Halo, selamat pagi!");
+};
+sapa();
